@@ -1,0 +1,12 @@
+{
+    "serverlist":[
+        {
+            "gamename":"Survivor",
+            "stat": "1731782733",
+            "end": "1734374733",
+            "ip_address":[
+                "192.168.200.100"
+            ]
+        }
+    ]
+}
